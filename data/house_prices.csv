@@ -1,0 +1,1201 @@
+area,sqft,bhk,bathrooms,age_years,price_lakhs
+Ameerpet,1514,1,1,6,93.41
+Shamshabad,2171,2,3,20,76.61
+Pocharam,1908,1,1,14,76.99
+Nizampet,3347,4,5,14,167.15
+Manikonda,681,1,2,3,40.17
+Bowenpally,1113,4,4,22,57.19
+Ameerpet,2520,4,4,22,144.1
+Attapur,3462,3,3,5,148.24
+Nizampet,3356,5,5,23,166.09
+Nizampet,2539,4,4,19,131.08
+Bowenpally,1345,3,3,25,59.14
+Hitech City,3670,5,5,4,280.52
+Manikonda,2009,4,4,19,122.57
+Gachibowli,1306,4,3,11,96.75
+Patancheru,1070,1,2,0,33.5
+Bowenpally,3790,1,1,27,146.35
+Madhapur,995,5,5,7,88.72
+Bachupally,2155,4,5,0,108.73
+Begumpet,2908,2,1,4,191.73
+Madhapur,1404,1,2,21,104.51
+Bowenpally,1533,5,6,5,78.87
+Jubilee Hills,1879,4,4,28,168.78
+Bachupally,2357,4,5,20,114.64
+Patancheru,1504,2,3,2,56.34
+Bachupally,3897,5,5,14,185.7
+LB Nagar,1676,4,4,4,73.47
+Miyapur,3587,1,1,27,166.75
+Kompally,2490,2,2,23,101.63
+Pocharam,2123,5,6,13,101.09
+Pocharam,3501,2,3,17,146.83
+Attapur,1987,1,1,15,81.84
+Bachupally,1903,5,4,5,97.27
+Shamshabad,1192,2,3,24,47.28
+Gachibowli,3361,3,2,23,229.64
+Kondapur,3829,1,2,13,255.4
+Attapur,3279,1,1,26,127.21
+Ameerpet,2706,1,1,23,145.58
+Bowenpally,727,3,2,7,35.88
+Kukatpally,1335,3,3,28,70.26
+Ameerpet,3368,4,4,6,208.23
+Nagole,3786,2,2,7,141.81
+Hitech City,3880,4,4,12,284.43
+Nallagandla,3173,2,1,5,165.81
+Nagole,1120,3,4,17,49.1
+Kukatpally,3199,3,3,1,182.85
+Bowenpally,836,4,3,7,41.68
+Madhapur,1904,5,5,10,151.95
+Shamshabad,3872,4,3,0,147.04
+Pocharam,2381,2,1,21,99.53
+Ameerpet,1901,4,3,28,109.59
+Bachupally,3906,1,2,5,185.79
+Manikonda,3141,2,1,15,169.98
+Pocharam,2651,2,1,26,103.26
+Gachibowli,3313,5,6,19,237.49
+Nallagandla,1041,3,4,11,55.25
+LB Nagar,2676,2,1,10,107.03
+Hitech City,3780,3,4,28,258.61
+Nagole,3257,4,4,26,116.96
+Manikonda,1404,1,1,28,75.07
+Hitech City,674,5,6,9,62.73
+Madhapur,3485,3,4,2,277.39
+Begumpet,3817,2,1,12,250.8
+Patancheru,2775,3,4,26,83.09
+Miyapur,2689,2,1,2,145.16
+Hitech City,1979,3,3,14,144.71
+Patancheru,640,2,3,15,26.58
+Nagole,3581,4,3,28,130.34
+Bachupally,2681,2,1,12,124.48
+Madhapur,3688,2,2,16,274.43
+Miyapur,2300,1,2,2,117.1
+Hitech City,3824,2,2,19,267.58
+Nallagandla,3645,1,1,10,181.5
+Kompally,2001,5,4,26,87.6
+Pocharam,1187,1,2,20,52.7
+Manikonda,2222,4,3,18,128.92
+Nallagandla,941,1,2,21,47.43
+Manikonda,2674,5,5,10,158.19
+Bowenpally,3958,4,5,29,162.17
+Kompally,1245,3,4,27,57.31
+Tellapur,1330,3,2,15,68.45
+Nagole,767,1,1,20,28.52
+Pocharam,1209,1,2,2,54.79
+Bowenpally,2915,5,4,21,125.92
+Tellapur,2372,5,4,5,122.89
+Kukatpally,2640,2,1,13,143.11
+Pocharam,3468,5,6,23,152.56
+Tellapur,1054,2,1,17,47.77
+Jubilee Hills,3553,4,5,16,324.99
+Ameerpet,2308,1,1,3,139.7
+Kukatpally,3569,4,4,22,189.84
+Jubilee Hills,3628,5,4,14,335.52
+Bachupally,1301,4,3,10,66.17
+Manikonda,3281,4,5,25,183.47
+Nizampet,2199,4,5,2,120.87
+Attapur,729,5,4,2,38.06
+LB Nagar,3667,4,4,15,150.47
+Manikonda,2445,2,1,4,146.27
+Gachibowli,1986,5,4,20,142.59
+Gachibowli,3466,4,4,28,231.0
+Jubilee Hills,1292,5,6,9,132.01
+Kondapur,3963,3,2,18,257.7
+Miyapur,1994,2,3,24,99.21
+Ameerpet,1393,4,5,3,87.2
+Kukatpally,628,3,3,28,39.76
+Ameerpet,748,3,3,28,42.85
+Kukatpally,1919,5,6,18,114.0
+Manikonda,2658,3,2,10,153.27
+Bachupally,3323,2,3,1,163.74
+Madhapur,1736,2,1,9,132.76
+Jubilee Hills,786,1,1,28,67.89
+Kompally,3454,2,2,10,147.41
+Kondapur,3391,3,2,24,211.4
+Gachibowli,1850,2,1,19,130.07
+Bachupally,1933,5,6,15,100.36
+Manikonda,697,1,1,18,36.8
+Patancheru,654,3,2,22,22.5
+Gachibowli,3270,1,1,23,220.27
+Jubilee Hills,3311,3,3,10,306.5
+Gachibowli,1357,5,6,13,102.04
+Kondapur,1005,1,1,1,74.21
+Pocharam,2716,4,4,22,116.56
+Nallagandla,3983,3,2,27,184.95
+Gachibowli,1912,4,3,4,144.4
+Jubilee Hills,2385,1,2,26,203.55
+Kondapur,1350,4,3,4,102.81
+Nallagandla,3819,4,3,18,191.8
+Ameerpet,2362,1,1,20,134.01
+Kukatpally,3915,5,4,11,217.45
+Pocharam,3605,4,5,17,158.88
+Pocharam,964,4,4,3,50.15
+Miyapur,2626,5,6,21,134.43
+Tellapur,1081,4,4,16,57.88
+Attapur,2848,4,3,9,126.18
+Ameerpet,753,4,4,19,48.41
+LB Nagar,2124,2,2,5,86.96
+Shamshabad,2720,5,4,24,97.8
+Hitech City,3360,4,3,13,243.98
+Kondapur,2943,5,6,10,204.79
+Ameerpet,1640,3,4,10,104.97
+Tellapur,2264,3,2,28,106.39
+Pocharam,1840,4,3,17,82.63
+Nizampet,660,5,4,26,38.01
+Hitech City,1538,5,5,22,111.42
+Tellapur,2239,5,5,21,108.54
+Ameerpet,2689,2,2,17,157.73
+Attapur,624,3,2,23,30.52
+Patancheru,1662,5,6,22,60.8
+Madhapur,730,5,4,10,63.89
+Miyapur,1852,2,2,20,90.47
+Tellapur,707,2,2,11,38.45
+Bowenpally,771,5,4,4,46.37
+Begumpet,2058,1,1,22,122.31
+Bachupally,701,5,5,8,48.05
+Bachupally,3513,5,5,26,164.02
+Shamshabad,3171,2,2,24,108.43
+Nizampet,2922,2,1,8,141.87
+Ameerpet,2236,5,5,21,130.98
+Jubilee Hills,3715,5,5,9,351.35
+Jubilee Hills,3464,5,6,21,314.99
+Shamshabad,3604,2,1,18,125.35
+Tellapur,1640,5,6,0,91.15
+Kukatpally,929,5,6,6,61.56
+Gachibowli,2120,4,4,3,157.44
+Ameerpet,611,1,1,0,42.04
+Begumpet,1941,3,3,14,125.42
+Manikonda,815,1,1,7,52.32
+Kukatpally,938,4,5,11,58.61
+Kondapur,2399,3,2,21,161.7
+Jubilee Hills,3308,5,5,21,301.06
+Attapur,3752,4,4,17,152.23
+Miyapur,2350,5,5,14,125.56
+Bachupally,2108,2,1,16,97.66
+Pocharam,3021,4,5,28,126.42
+Patancheru,3623,2,3,13,115.5
+Kukatpally,1309,4,3,13,75.17
+Shamshabad,1823,4,4,17,68.25
+LB Nagar,3113,2,3,19,120.65
+LB Nagar,1712,3,3,17,65.4
+Shamshabad,1891,1,1,15,65.66
+Bachupally,1088,5,5,0,61.27
+Ameerpet,2161,4,5,22,125.37
+Madhapur,646,5,6,26,53.23
+Gachibowli,3959,2,2,10,273.76
+LB Nagar,1377,5,4,14,59.31
+Kondapur,1639,2,2,11,110.94
+LB Nagar,1310,5,4,7,66.52
+LB Nagar,1000,1,1,21,37.63
+LB Nagar,2417,1,2,19,92.88
+Madhapur,3628,1,1,29,253.46
+Madhapur,3757,1,1,5,289.81
+Patancheru,849,1,1,2,29.06
+Kondapur,990,1,2,27,61.04
+Jubilee Hills,934,2,2,23,88.79
+Jubilee Hills,1228,4,5,25,119.51
+Attapur,736,5,4,29,33.17
+Madhapur,3530,1,1,12,261.86
+Bowenpally,3335,2,3,12,144.4
+Bachupally,2121,2,1,1,102.79
+Begumpet,1426,2,1,4,97.68
+Hitech City,1326,4,5,16,100.02
+Nizampet,2100,5,6,5,120.61
+LB Nagar,3241,4,5,1,142.1
+Begumpet,3894,3,2,3,260.55
+Kondapur,1589,2,3,21,108.4
+Shamshabad,3019,3,2,25,103.96
+Madhapur,1534,1,2,10,116.56
+Begumpet,3642,1,1,7,233.9
+Patancheru,1001,4,3,11,39.22
+Nizampet,2066,5,5,7,114.06
+Kompally,1214,3,4,10,57.0
+Kompally,1896,5,6,21,81.3
+Jubilee Hills,1782,4,3,19,162.82
+Kukatpally,3823,1,1,7,206.49
+Begumpet,3642,5,4,28,223.96
+Kompally,3267,5,5,7,149.8
+Gachibowli,2835,1,1,25,182.54
+Shamshabad,1721,3,2,29,60.61
+Hitech City,730,1,2,16,57.39
+Attapur,3452,5,6,19,148.75
+Gachibowli,1794,3,3,19,125.24
+Attapur,3583,3,3,22,142.1
+Shamshabad,3633,1,1,15,123.25
+Ameerpet,782,5,6,13,57.27
+Shamshabad,3630,4,3,29,120.47
+Kukatpally,963,5,5,10,63.44
+Jubilee Hills,638,2,3,6,58.22
+Manikonda,3144,4,5,15,183.12
+Ameerpet,1972,3,3,12,119.86
+Nagole,3629,4,3,26,131.4
+Manikonda,1520,3,2,14,94.44
+Jubilee Hills,3369,3,4,23,296.62
+Nizampet,3832,4,4,15,188.3
+Nagole,615,3,4,26,33.62
+Miyapur,1092,3,3,20,57.06
+Gachibowli,2049,2,1,22,136.97
+Ameerpet,1731,5,5,23,105.44
+Kompally,3541,5,4,8,156.76
+Kompally,910,2,2,2,43.03
+Shamshabad,1338,4,5,18,50.23
+LB Nagar,3841,1,1,19,142.93
+Madhapur,1145,1,2,4,89.46
+Jubilee Hills,3061,1,2,9,283.23
+Kompally,850,2,1,16,38.28
+Bachupally,1358,2,1,14,66.38
+Kondapur,2404,3,4,22,154.54
+Kondapur,3812,1,2,24,243.54
+Kukatpally,1897,4,5,7,112.05
+Kukatpally,2231,4,5,14,129.29
+Gachibowli,2514,1,1,20,169.94
+Attapur,3710,1,1,29,139.52
+Kompally,1413,1,2,13,60.53
+Kompally,628,2,2,19,32.34
+Gachibowli,1557,2,2,27,105.9
+Shamshabad,2632,2,1,6,93.46
+Patancheru,1076,5,6,20,49.66
+Jubilee Hills,917,4,5,22,91.67
+Shamshabad,844,4,3,11,38.07
+Nizampet,1347,3,3,16,66.75
+LB Nagar,1296,2,2,16,49.9
+Manikonda,871,5,5,9,60.93
+Hitech City,2371,5,4,29,166.17
+Begumpet,1862,4,4,28,116.79
+Manikonda,3024,2,1,18,166.92
+Shamshabad,865,3,2,13,38.77
+Gachibowli,3573,2,3,10,254.1
+Kompally,1520,1,1,1,63.03
+Gachibowli,939,2,1,17,66.53
+Nagole,988,1,1,6,36.93
+Nallagandla,3224,1,1,11,158.52
+Nagole,2650,3,4,25,97.3
+Madhapur,1765,4,4,1,145.13
+Patancheru,975,2,3,26,30.22
+Gachibowli,2633,1,1,19,177.15
+Kompally,2971,2,2,17,119.5
+Kukatpally,745,4,3,5,41.23
+Hitech City,2581,4,4,23,187.75
+Jubilee Hills,892,5,4,9,95.11
+Hitech City,1031,4,4,19,78.75
+Jubilee Hills,1304,3,3,14,123.89
+Nallagandla,3596,1,1,4,179.83
+Bowenpally,2598,5,5,19,121.36
+Kompally,3232,3,3,2,146.3
+Shamshabad,998,2,2,4,39.36
+Manikonda,3464,1,1,29,182.47
+Ameerpet,1563,4,4,24,94.42
+Gachibowli,3811,1,1,7,265.67
+LB Nagar,2834,2,1,7,112.96
+Jubilee Hills,2641,5,6,7,256.5
+Kompally,2428,5,5,11,107.85
+Bachupally,2708,5,6,23,129.78
+Attapur,1538,4,4,22,66.48
+Patancheru,1309,3,3,7,47.41
+Patancheru,1406,3,2,10,49.42
+Nallagandla,2063,1,1,13,99.39
+Begumpet,3990,4,5,7,264.17
+Begumpet,1925,5,4,28,120.31
+Tellapur,610,5,4,29,38.49
+Attapur,1685,2,3,23,62.87
+Patancheru,2468,2,1,27,77.13
+Manikonda,2873,5,5,9,175.6
+Madhapur,3824,5,6,6,302.66
+Bowenpally,3211,4,5,27,129.52
+Jubilee Hills,1371,3,3,16,127.91
+Pocharam,2194,2,1,3,96.85
+Jubilee Hills,2207,3,4,28,191.36
+Kondapur,1933,4,5,12,135.69
+Kompally,1484,5,5,3,76.91
+Attapur,3914,3,3,4,166.47
+Hitech City,1989,5,4,25,140.86
+Gachibowli,3778,5,6,21,257.47
+LB Nagar,825,1,1,3,34.09
+LB Nagar,1424,3,2,17,58.65
+Bachupally,2865,3,3,5,142.91
+Nallagandla,1536,5,6,23,82.09
+Bowenpally,3400,4,5,23,147.12
+Begumpet,3153,1,2,22,197.72
+Gachibowli,2906,5,5,21,205.2
+Kukatpally,2511,2,2,1,142.03
+Kondapur,2396,2,2,22,154.92
+LB Nagar,653,1,1,10,26.48
+Nallagandla,3718,4,4,27,181.29
+Bowenpally,1326,5,6,13,66.04
+Gachibowli,3336,3,2,29,218.54
+Jubilee Hills,2144,1,2,4,203.65
+Shamshabad,3770,4,3,5,136.46
+Bowenpally,1643,3,3,9,73.16
+Jubilee Hills,2513,2,1,7,236.66
+Gachibowli,2376,2,3,13,167.42
+Nagole,2196,3,4,23,84.72
+Miyapur,2514,1,1,2,130.65
+Patancheru,3066,2,2,11,101.45
+Gachibowli,3337,5,5,15,235.16
+Manikonda,1449,3,4,27,86.95
+Nallagandla,2709,3,2,29,123.86
+Nagole,3816,2,2,22,137.93
+Pocharam,2863,1,1,16,118.72
+Patancheru,602,5,6,0,29.58
+Madhapur,759,1,1,22,57.35
+Miyapur,1380,4,3,9,80.78
+Madhapur,3791,4,5,24,271.77
+LB Nagar,1492,2,3,22,61.09
+Manikonda,2630,2,1,9,144.62
+Jubilee Hills,3760,2,3,20,331.61
+Kukatpally,2976,4,4,23,161.89
+Nizampet,1179,1,1,1,59.56
+Patancheru,2533,1,1,8,77.83
+Kompally,1980,2,2,21,80.28
+Ameerpet,1890,5,4,12,123.83
+Miyapur,2240,1,1,24,103.02
+Gachibowli,1551,4,4,15,111.54
+Nagole,3994,3,2,17,151.3
+Tellapur,3282,3,3,18,154.69
+Ameerpet,1587,3,4,11,98.47
+Hitech City,1818,5,6,7,139.97
+Tellapur,1520,2,1,16,75.91
+Shamshabad,3385,4,4,14,125.03
+Jubilee Hills,1955,5,5,9,192.24
+Manikonda,769,4,5,14,50.07
+Nallagandla,1120,4,5,14,63.8
+Kompally,2086,2,2,22,84.1
+Nallagandla,639,3,2,6,38.73
+Bachupally,2160,2,3,12,107.73
+Attapur,3932,5,4,16,163.79
+Pocharam,2018,5,4,8,92.0
+Madhapur,1554,5,6,7,133.56
+Madhapur,3897,2,1,19,285.45
+Patancheru,1583,4,3,25,55.71
+Attapur,3795,4,4,26,152.28
+Patancheru,1574,1,1,20,45.86
+Patancheru,637,5,5,17,30.41
+LB Nagar,2975,4,5,12,121.96
+Shamshabad,1874,1,2,15,60.83
+Miyapur,1799,4,4,8,100.62
+Begumpet,2225,5,6,11,158.97
+Pocharam,1513,3,2,11,63.7
+Patancheru,1053,5,4,5,43.64
+Nizampet,636,2,1,18,34.91
+Kondapur,3987,4,5,27,255.7
+Jubilee Hills,2311,4,3,6,222.39
+Manikonda,3620,2,3,24,191.96
+Bowenpally,1395,2,1,2,65.27
+Bachupally,1572,3,3,15,75.94
+Bachupally,1192,4,5,17,57.85
+Kondapur,1737,4,5,15,125.65
+Ameerpet,3711,3,2,22,211.56
+Hitech City,1924,1,2,6,142.19
+Begumpet,2871,3,4,3,195.48
+Tellapur,917,5,5,26,52.8
+Shamshabad,2996,4,4,24,104.55
+Pocharam,2762,2,1,29,111.05
+Gachibowli,3345,5,5,7,244.85
+Manikonda,1946,4,3,12,119.13
+Shamshabad,2191,3,2,12,79.91
+Kompally,3711,5,4,16,157.07
+Tellapur,2489,4,5,16,116.32
+Nagole,2687,1,1,4,103.49
+Miyapur,2596,1,1,5,132.51
+Attapur,2372,2,2,18,93.25
+LB Nagar,1912,4,3,12,79.17
+Attapur,1885,1,1,24,69.5
+Kondapur,815,3,3,27,62.37
+Bowenpally,3818,4,3,25,162.92
+Kukatpally,2983,3,4,13,168.03
+Bachupally,3839,3,3,21,172.64
+Bowenpally,2739,1,2,3,122.35
+Jubilee Hills,3000,4,5,27,260.99
+Jubilee Hills,3218,5,4,6,307.33
+Pocharam,3463,1,1,7,144.74
+Madhapur,2304,1,1,24,167.86
+Patancheru,3428,4,4,12,112.64
+Kompally,962,4,3,26,47.27
+Manikonda,3204,3,2,5,189.73
+Tellapur,2316,4,4,5,121.63
+Bowenpally,1793,3,3,23,74.84
+Jubilee Hills,955,1,1,27,86.37
+Kompally,790,2,1,20,37.19
+Ameerpet,3069,5,4,29,171.05
+Kondapur,1299,1,1,2,93.73
+Patancheru,2654,4,5,27,86.6
+Gachibowli,2780,5,6,2,210.29
+Bachupally,1156,2,1,12,54.56
+Kompally,1425,2,3,21,58.42
+Attapur,3408,3,3,1,151.19
+Kondapur,1654,5,6,15,119.58
+Patancheru,3182,3,4,21,102.93
+Nallagandla,1025,1,1,28,46.74
+Kondapur,3319,5,6,5,234.78
+Pocharam,3010,1,2,7,131.61
+LB Nagar,2174,3,4,22,83.63
+Nallagandla,2729,5,6,7,146.54
+Shamshabad,3003,3,3,29,99.9
+Kondapur,3929,5,4,24,256.05
+Bachupally,1188,3,2,5,61.54
+Kompally,2612,2,2,13,109.59
+Kompally,2147,3,4,2,98.88
+Bowenpally,894,2,2,9,44.36
+Ameerpet,2585,3,4,2,159.09
+Hitech City,1847,5,5,26,133.25
+Jubilee Hills,2148,5,4,11,208.77
+Kondapur,3717,5,4,16,253.0
+Miyapur,2290,4,3,26,111.66
+Patancheru,1736,1,2,28,53.31
+Kondapur,1856,5,6,4,133.37
+Hitech City,2664,2,2,29,178.99
+Madhapur,959,5,5,19,85.36
+Shamshabad,3894,4,3,24,129.24
+Miyapur,3513,2,3,8,180.14
+Attapur,1299,4,4,29,58.19
+Jubilee Hills,1047,2,3,20,93.05
+Kondapur,3503,3,4,25,223.65
+Tellapur,3012,1,1,19,134.6
+Hitech City,1274,1,1,6,92.73
+Kompally,1607,4,5,21,71.23
+Kompally,1949,1,2,3,85.84
+Madhapur,3114,4,5,12,242.29
+LB Nagar,3061,4,5,12,127.23
+Shamshabad,1185,4,3,9,47.53
+Bachupally,1856,1,1,17,86.26
+Nagole,1847,4,3,16,73.78
+Gachibowli,1593,1,1,19,109.42
+Jubilee Hills,2035,4,5,19,187.39
+Jubilee Hills,1171,5,5,12,116.95
+Attapur,2982,4,3,16,120.36
+Nizampet,1845,2,1,21,88.21
+Kondapur,2684,4,5,3,190.95
+Bachupally,1588,3,2,0,79.54
+Gachibowli,877,4,5,0,73.79
+Jubilee Hills,1819,2,1,14,167.46
+Jubilee Hills,3563,2,1,12,327.99
+Manikonda,2487,1,2,16,137.04
+Miyapur,1083,5,5,23,63.66
+Nizampet,1865,4,3,25,93.7
+Bachupally,3995,1,1,7,189.8
+Tellapur,1330,5,4,17,66.9
+Bachupally,2839,4,3,26,130.87
+Nallagandla,1640,3,2,12,86.64
+Madhapur,3171,4,3,22,233.99
+Attapur,1517,2,2,13,58.35
+Nagole,3048,2,2,7,117.58
+Gachibowli,1485,3,2,7,115.56
+LB Nagar,3352,1,1,26,121.54
+Manikonda,621,5,5,25,42.1
+Miyapur,1073,4,5,14,63.6
+Madhapur,3791,2,3,26,271.13
+Attapur,2857,1,1,12,116.8
+Kukatpally,2953,3,2,6,161.47
+Ameerpet,3941,2,1,4,238.31
+Hitech City,1303,3,4,16,99.43
+Bowenpally,1286,4,5,27,60.12
+Nagole,884,5,5,24,42.71
+Tellapur,1315,2,3,28,62.86
+Nizampet,1362,2,2,15,70.79
+Hitech City,1850,4,5,22,132.0
+Bowenpally,1547,1,2,1,72.95
+Hitech City,3028,5,6,21,217.39
+Miyapur,3107,2,1,17,154.56
+Kondapur,1630,5,4,16,116.15
+Kukatpally,628,2,1,29,33.96
+Gachibowli,1506,5,6,6,121.11
+LB Nagar,3704,3,3,12,147.74
+Gachibowli,3526,2,2,17,238.41
+Kompally,2726,5,5,28,112.19
+Hitech City,3594,1,1,13,254.87
+Nagole,3106,3,2,29,113.51
+LB Nagar,1169,3,2,17,51.19
+Ameerpet,2606,1,2,12,149.83
+Kondapur,2053,5,6,10,154.5
+Bachupally,1337,4,4,20,68.9
+LB Nagar,3956,1,1,29,145.37
+Tellapur,1115,5,5,20,59.33
+Gachibowli,2600,1,2,15,180.4
+Kukatpally,3770,1,2,22,194.3
+LB Nagar,3044,2,2,16,121.61
+LB Nagar,638,5,6,7,39.75
+Shamshabad,3942,4,4,18,139.42
+Kompally,1486,2,1,19,60.68
+Patancheru,3444,1,1,14,104.91
+Tellapur,2804,1,1,8,130.7
+Attapur,1698,1,1,19,68.96
+LB Nagar,3531,5,6,9,147.9
+Hitech City,2423,5,6,11,186.38
+Bachupally,3801,2,3,20,176.88
+Kukatpally,2310,4,4,22,122.78
+Attapur,1573,2,2,19,62.1
+Bachupally,3755,3,4,29,166.68
+Kukatpally,3693,1,1,0,206.18
+Ameerpet,2162,1,2,24,119.06
+Nallagandla,3496,1,1,19,170.43
+Shamshabad,3395,2,1,8,119.88
+Attapur,1588,2,1,21,63.54
+Pocharam,620,1,2,14,24.68
+Kompally,2950,2,2,0,125.21
+Bowenpally,1468,5,5,11,73.95
+Kondapur,683,5,4,2,52.12
+Gachibowli,2282,2,1,10,164.06
+Bachupally,2576,1,2,1,125.86
+Shamshabad,2010,2,1,15,78.04
+Bowenpally,2130,2,3,8,101.89
+Hitech City,3928,2,1,14,277.74
+Bowenpally,1169,3,2,11,55.01
+Kompally,1533,5,5,0,78.37
+Ameerpet,3833,4,3,12,231.6
+Tellapur,2580,4,3,13,119.26
+Bowenpally,3834,3,4,24,155.74
+Miyapur,2455,2,1,24,117.65
+Ameerpet,3656,3,4,7,222.37
+Nallagandla,1392,3,2,7,76.35
+Kondapur,1391,1,1,26,90.97
+Gachibowli,2409,5,6,29,162.63
+Nizampet,1894,4,4,11,93.94
+Nizampet,3139,2,3,0,164.5
+Nagole,2855,4,5,10,112.08
+Pocharam,2207,4,5,7,97.2
+Bachupally,1683,5,5,9,89.74
+Kukatpally,3077,4,3,29,159.99
+Miyapur,1584,4,5,18,86.13
+Bachupally,2280,3,4,10,111.62
+LB Nagar,3980,5,5,6,166.48
+Begumpet,1119,1,2,10,73.07
+Ameerpet,1190,2,1,16,67.26
+Nallagandla,1650,4,4,0,91.56
+Tellapur,2309,2,1,25,102.77
+Manikonda,2635,1,1,28,138.82
+Miyapur,2846,2,2,20,141.17
+Kukatpally,3034,1,2,20,154.13
+Nagole,948,3,2,7,40.66
+Madhapur,1559,4,3,22,113.86
+Kondapur,2563,1,1,23,163.32
+Kondapur,1292,2,1,5,94.74
+Begumpet,2159,4,4,21,136.04
+Attapur,977,3,3,17,42.77
+Manikonda,3546,4,3,5,210.78
+Kompally,3563,1,2,4,153.48
+Tellapur,1126,3,2,12,55.36
+Jubilee Hills,3824,2,3,18,340.79
+Patancheru,3381,3,2,21,100.28
+Shamshabad,2853,3,4,7,105.02
+LB Nagar,3102,5,4,8,135.91
+Ameerpet,3944,3,4,16,229.89
+Tellapur,1859,3,2,2,92.72
+Hitech City,2475,4,3,18,179.17
+Hitech City,2363,2,3,10,173.24
+Begumpet,1120,4,4,23,74.29
+Attapur,2301,4,5,16,100.36
+Bachupally,1616,1,1,20,74.23
+Patancheru,3603,4,3,18,115.44
+Ameerpet,3373,5,6,1,211.43
+Miyapur,1613,5,6,7,97.09
+Attapur,3148,1,2,18,124.54
+Ameerpet,716,2,2,6,45.15
+Gachibowli,3033,2,2,27,201.9
+Tellapur,1967,4,3,26,89.99
+Tellapur,1183,4,4,16,59.29
+Nagole,994,4,4,5,44.32
+Shamshabad,1687,2,1,18,54.17
+Manikonda,3368,3,4,23,186.25
+Kukatpally,671,5,6,5,43.89
+Ameerpet,873,3,2,27,49.75
+Jubilee Hills,2613,3,4,1,249.75
+Gachibowli,1943,2,2,5,141.48
+Tellapur,937,3,2,22,45.89
+LB Nagar,1989,1,1,4,79.77
+Jubilee Hills,1206,4,3,18,112.11
+Begumpet,765,1,2,19,46.82
+Bowenpally,2167,5,4,3,106.06
+Begumpet,2658,4,3,21,167.72
+Bachupally,1924,3,2,25,90.01
+Tellapur,1328,5,6,16,68.51
+Tellapur,3448,4,4,10,165.23
+Pocharam,2643,3,2,3,121.64
+Bowenpally,701,1,1,25,31.53
+Kompally,2015,4,5,12,89.54
+Patancheru,1378,3,4,19,49.09
+Bowenpally,813,1,2,25,34.69
+Nizampet,1711,5,6,16,92.39
+Kondapur,2176,5,5,8,156.03
+Hitech City,3048,5,4,3,233.13
+Gachibowli,3235,5,6,22,225.25
+Attapur,3536,2,3,27,132.24
+Shamshabad,3717,4,4,13,129.99
+Nagole,2295,4,4,18,86.66
+Pocharam,1191,2,3,25,47.49
+Kukatpally,1933,3,2,27,97.89
+LB Nagar,1709,3,2,2,74.31
+Nallagandla,2739,5,6,13,142.49
+Pocharam,3320,1,1,7,142.35
+Jubilee Hills,1313,3,4,23,121.05
+Bowenpally,1535,1,2,26,58.69
+Patancheru,2551,4,4,27,83.65
+Patancheru,841,1,2,0,32.04
+Gachibowli,2643,4,5,9,190.96
+Kompally,601,2,3,17,29.98
+Nizampet,2872,2,2,15,137.44
+Bachupally,3448,5,4,7,171.81
+Miyapur,2368,3,2,0,126.07
+Kompally,2549,5,5,11,109.36
+Manikonda,3236,4,3,7,189.88
+Begumpet,2763,5,6,23,177.57
+Bachupally,1517,1,1,15,69.75
+Bowenpally,3774,4,5,17,161.8
+Manikonda,2841,2,1,3,165.6
+Hitech City,3837,3,3,5,285.83
+Manikonda,3518,4,3,11,203.35
+Nagole,689,4,3,26,32.32
+Kondapur,2309,1,1,8,154.85
+Kukatpally,2769,3,3,14,153.6
+Hitech City,742,2,1,15,52.47
+Patancheru,3641,4,4,23,116.21
+LB Nagar,705,4,5,11,39.91
+Kukatpally,1486,1,1,23,77.71
+Jubilee Hills,1027,5,5,22,99.97
+Bowenpally,1928,2,2,13,83.7
+Shamshabad,2495,3,2,12,91.82
+Tellapur,2594,4,5,24,116.66
+Kompally,916,4,4,1,45.09
+Tellapur,2586,2,1,2,123.38
+Nallagandla,1234,5,6,25,72.03
+Gachibowli,2525,4,4,23,175.22
+Begumpet,2656,2,2,29,157.14
+Nagole,3421,1,2,21,121.4
+Attapur,3744,5,6,9,158.74
+Kondapur,2870,3,2,8,196.02
+Pocharam,2039,4,3,25,89.76
+Madhapur,1152,2,2,19,84.2
+Miyapur,1315,1,2,7,73.59
+Nagole,1887,3,4,9,78.9
+Tellapur,2313,2,3,18,109.01
+Kondapur,2483,2,2,2,173.4
+Jubilee Hills,3989,3,4,23,351.42
+Patancheru,1707,1,2,4,53.27
+Jubilee Hills,1941,1,1,2,183.91
+Nagole,710,5,4,25,36.22
+Pocharam,850,4,3,26,44.39
+LB Nagar,3030,3,3,15,118.06
+Nizampet,2654,3,4,16,130.99
+Bowenpally,1058,3,3,14,50.47
+Patancheru,1707,1,1,2,53.0
+LB Nagar,807,4,3,11,40.74
+Tellapur,1499,5,5,8,77.89
+Jubilee Hills,3985,2,2,20,352.4
+Madhapur,621,2,1,11,48.98
+Kukatpally,1009,3,3,25,54.87
+Gachibowli,1494,4,3,14,109.93
+Jubilee Hills,1114,1,1,1,107.17
+Bowenpally,3798,4,4,22,160.68
+Kompally,1408,4,4,17,62.49
+Begumpet,1473,1,1,19,92.93
+LB Nagar,613,3,3,11,34.48
+Kondapur,1570,4,3,22,107.55
+Kondapur,3625,2,1,3,253.41
+Begumpet,3661,1,1,22,219.19
+Gachibowli,3683,5,5,15,261.16
+Bowenpally,2734,3,2,22,113.07
+Kondapur,3556,1,1,15,229.25
+Bowenpally,2160,5,6,0,105.49
+Kondapur,1924,5,4,21,135.28
+Miyapur,1866,4,5,24,100.09
+Miyapur,2769,4,5,1,154.02
+Attapur,3818,4,5,29,144.55
+LB Nagar,1349,1,1,2,55.34
+Bowenpally,1284,1,1,25,53.9
+Nallagandla,2527,3,2,20,125.11
+Kukatpally,2956,4,5,24,152.36
+Nallagandla,1294,5,5,19,70.25
+Jubilee Hills,2935,2,2,16,265.42
+Attapur,906,3,3,19,42.56
+Tellapur,2589,1,1,21,108.27
+Tellapur,3561,3,3,20,160.47
+Hitech City,1261,3,4,29,90.55
+Jubilee Hills,1148,3,4,28,106.67
+LB Nagar,911,3,4,0,45.87
+Manikonda,3520,2,3,19,195.5
+Madhapur,1682,4,3,5,134.97
+Manikonda,3571,5,6,28,191.45
+Ameerpet,2337,3,3,14,138.29
+Madhapur,1354,3,4,25,105.25
+Patancheru,634,3,2,25,27.84
+Patancheru,1044,4,4,13,42.65
+Gachibowli,2740,1,2,19,186.46
+Nagole,2582,1,2,14,96.67
+Bachupally,1830,2,3,13,87.28
+Jubilee Hills,952,1,1,24,83.73
+Patancheru,1502,3,3,20,55.29
+Bachupally,1955,3,2,23,88.95
+Kondapur,3509,3,3,24,229.81
+LB Nagar,2348,2,2,25,88.32
+Kompally,758,3,4,4,42.34
+Pocharam,2577,1,1,5,107.38
+Pocharam,1556,4,5,16,74.09
+Kondapur,2671,4,5,10,185.09
+Bowenpally,1003,5,5,15,49.45
+Nallagandla,3452,1,1,11,171.15
+Madhapur,1115,3,2,14,90.72
+Nizampet,3379,4,4,22,161.17
+Attapur,1987,1,1,3,79.04
+Ameerpet,3179,4,5,26,180.67
+Begumpet,1555,3,4,17,103.13
+Madhapur,2799,4,4,20,211.43
+Begumpet,2312,5,4,27,149.19
+Nagole,3594,5,4,2,146.03
+Madhapur,1207,4,5,21,100.88
+Nagole,3067,1,1,7,116.14
+Pocharam,1873,1,1,22,74.89
+Attapur,3788,1,1,2,152.34
+Madhapur,3513,4,3,7,274.08
+Shamshabad,2135,1,2,17,71.9
+Begumpet,3225,3,4,9,215.29
+Jubilee Hills,2982,5,5,24,268.75
+Pocharam,2041,3,4,19,85.84
+Miyapur,3579,1,1,16,176.93
+Attapur,2397,3,4,7,104.9
+LB Nagar,894,1,1,22,38.73
+Kondapur,1354,4,4,10,101.11
+Hitech City,1994,3,3,28,139.83
+Miyapur,785,4,3,4,48.72
+LB Nagar,1869,4,3,25,76.65
+Miyapur,1236,2,1,12,68.11
+LB Nagar,1891,1,1,20,68.56
+Shamshabad,3908,5,4,22,134.57
+Kondapur,1129,1,2,4,77.82
+Madhapur,2668,5,4,23,200.61
+Begumpet,3558,1,1,26,215.78
+Bowenpally,3514,4,5,12,155.7
+Madhapur,1393,3,2,5,106.61
+Tellapur,2747,3,3,28,120.52
+Nizampet,3399,2,1,4,173.31
+Nizampet,1077,5,4,8,64.17
+Kompally,2222,5,5,26,96.19
+Nizampet,3969,5,5,15,197.34
+Attapur,1539,4,4,1,68.85
+Pocharam,1125,5,5,0,61.16
+Kompally,2981,3,2,7,125.71
+Nizampet,601,4,4,27,41.46
+Patancheru,974,1,1,18,32.65
+Kompally,2940,5,6,29,120.0
+Manikonda,3484,5,5,10,203.96
+Hitech City,3652,1,1,27,243.13
+Manikonda,1152,5,6,11,75.58
+Hitech City,2965,1,2,11,215.65
+Gachibowli,2125,4,3,6,158.19
+Gachibowli,2451,3,4,25,164.7
+Nagole,980,1,1,12,42.48
+Attapur,2246,2,3,26,88.03
+Attapur,613,1,2,7,29.45
+Bowenpally,1103,5,4,28,52.28
+Kondapur,2878,4,5,28,187.25
+Nagole,2608,4,3,21,99.96
+Miyapur,3755,1,2,27,172.55
+Patancheru,729,3,3,25,32.93
+Bowenpally,1437,2,3,29,64.52
+Begumpet,3816,4,3,8,251.2
+Jubilee Hills,3538,5,6,6,337.59
+Kondapur,2640,5,4,25,175.51
+Kukatpally,627,3,2,20,38.04
+Bachupally,2713,4,4,23,128.33
+Nallagandla,3834,1,1,14,187.36
+Madhapur,1852,5,4,1,155.84
+LB Nagar,860,3,4,22,42.69
+Nallagandla,2646,4,3,19,134.51
+Tellapur,2072,4,3,24,93.81
+Kukatpally,2047,4,5,11,121.04
+Pocharam,1059,4,5,0,59.64
+Patancheru,900,4,5,22,44.15
+Pocharam,3566,5,6,21,149.95
+Nizampet,3974,3,2,7,199.84
+Kompally,2934,4,3,4,124.45
+LB Nagar,3681,2,2,14,144.98
+Hitech City,1229,2,1,0,93.38
+Jubilee Hills,869,3,4,0,95.06
+Manikonda,3239,1,1,24,170.19
+LB Nagar,2593,1,2,9,98.86
+Gachibowli,2228,1,1,21,148.06
+Shamshabad,2401,2,2,9,80.67
+Pocharam,3491,1,2,20,143.08
+Pocharam,1461,5,5,14,65.64
+Patancheru,1880,4,4,16,65.58
+Nallagandla,2780,2,1,21,128.48
+Nallagandla,3947,3,4,5,204.17
+Madhapur,2399,3,3,2,196.63
+Tellapur,2306,4,4,12,113.28
+Nallagandla,3619,2,3,15,176.74
+Attapur,3160,1,1,7,128.15
+Ameerpet,2960,1,1,29,159.34
+Gachibowli,1175,5,5,14,92.54
+Pocharam,3533,5,6,16,151.08
+Nallagandla,2603,1,2,16,128.84
+Nizampet,1907,3,4,21,88.28
+Pocharam,3792,3,4,25,152.88
+Tellapur,3778,5,4,12,178.52
+Nagole,2556,4,4,16,101.7
+Begumpet,3334,1,2,5,218.8
+Gachibowli,2620,5,5,16,184.55
+Attapur,3875,5,5,15,158.38
+Pocharam,2812,1,1,13,117.43
+Kondapur,2952,1,2,12,196.81
+Miyapur,2255,3,4,5,121.17
+Ameerpet,2179,4,4,2,137.69
+LB Nagar,2447,4,5,13,104.53
+Ameerpet,2803,1,1,13,160.44
+Patancheru,1990,2,2,14,64.49
+Bachupally,2342,5,4,7,125.39
+LB Nagar,2525,5,4,28,96.83
+Tellapur,1219,1,1,14,51.75
+Shamshabad,1874,2,2,21,66.64
+Hitech City,1556,3,4,28,108.25
+Miyapur,2539,1,1,26,119.8
+Gachibowli,2981,1,2,12,205.48
+Kukatpally,1568,5,4,16,90.77
+Tellapur,3158,1,1,20,142.85
+Nagole,1916,1,1,23,70.41
+Pocharam,1643,1,1,2,74.54
+Hitech City,881,5,4,27,65.31
+Pocharam,3444,3,3,5,149.15
+Patancheru,3672,3,4,4,116.23
+Madhapur,2766,1,1,21,197.9
+Pocharam,1658,5,5,25,78.06
+Manikonda,797,3,2,16,50.66
+Manikonda,3132,3,3,22,172.02
+LB Nagar,1682,3,4,24,68.47
+Bachupally,3484,5,6,1,177.14
+Attapur,1784,5,5,25,77.84
+Miyapur,1608,1,1,14,83.15
+Kukatpally,3338,4,4,4,185.81
+Kondapur,1829,3,4,25,122.03
+Begumpet,1635,4,3,19,110.44
+Shamshabad,1089,5,6,5,48.61
+Madhapur,875,5,5,5,80.14
+Tellapur,3340,5,5,26,159.19
+Begumpet,2889,4,5,17,187.45
+Kondapur,1839,5,5,17,130.75
+Jubilee Hills,1874,1,2,3,177.15
+Bowenpally,725,5,5,16,41.81
+Patancheru,816,2,1,24,28.56
+Bowenpally,3977,4,3,13,174.78
+Begumpet,1808,2,2,13,115.17
+Begumpet,3710,5,6,12,245.92
+Kompally,1846,1,1,6,81.63
+Hitech City,3855,3,4,11,281.54
+Nizampet,3142,5,5,22,157.18
+Kukatpally,3074,1,2,14,162.11
+Gachibowli,3849,4,3,18,267.45
+Attapur,1518,2,3,10,65.85
+Manikonda,1917,2,3,14,107.98
+Kondapur,2798,2,2,11,189.96
+Hitech City,3031,4,4,2,229.22
+Begumpet,2261,1,1,16,140.39
+Madhapur,907,4,3,2,79.05
+Shamshabad,1959,2,1,18,68.17
+Nizampet,2569,5,5,19,127.21
+Hitech City,3393,3,3,3,257.6
+Pocharam,1491,4,3,2,73.43
+Begumpet,974,4,3,25,64.49
+Patancheru,3679,1,1,15,109.12
+LB Nagar,2633,1,1,11,102.62
+Begumpet,1964,4,4,7,134.08
+Attapur,728,2,1,23,31.18
+Madhapur,1614,3,3,28,117.78
+Pocharam,2399,1,2,28,89.68
+Nizampet,3316,2,3,16,159.62
+Manikonda,1981,5,4,6,122.08
+Attapur,1116,1,2,10,48.61
+Tellapur,2118,2,3,17,96.43
+Bachupally,685,2,3,0,42.48
+Kondapur,1798,3,2,2,124.39
+Begumpet,3864,3,2,3,261.34
+Patancheru,2958,5,6,12,101.85
+Hitech City,1742,2,2,5,133.08
+Attapur,3889,2,3,25,149.1
+Shamshabad,3074,3,2,13,110.94
+Jubilee Hills,2593,1,1,4,243.73
+Shamshabad,2761,1,1,15,90.39
+LB Nagar,3816,4,5,14,157.64
+Bachupally,902,3,3,14,47.49
+Pocharam,3391,4,3,29,137.85
+Jubilee Hills,1187,3,2,3,120.6
+Nallagandla,1586,5,6,7,88.34
+Begumpet,2463,2,2,26,151.74
+Kondapur,944,5,6,15,72.05
+Nizampet,1413,3,2,27,68.79
+Hitech City,2587,2,2,15,184.73
+Tellapur,3448,1,1,29,141.81
+Nizampet,3672,1,1,3,181.75
+Gachibowli,3818,4,4,12,274.28
+Jubilee Hills,1910,3,3,25,172.42
+Begumpet,2599,3,4,27,160.55
+Nagole,2277,1,1,12,85.28
+Miyapur,3724,5,4,1,202.84
+Kondapur,1927,2,1,2,139.09
+Miyapur,1692,5,4,21,90.79
+Bachupally,3008,5,4,7,151.62
+Madhapur,3891,1,1,23,280.74
+Tellapur,1609,1,2,14,72.54
+Manikonda,1303,1,1,10,78.75
+Madhapur,1174,4,5,8,94.82
+Shamshabad,2208,5,6,6,91.8
+Jubilee Hills,3832,3,3,12,352.53
+Kondapur,1712,2,1,1,120.85
+Kukatpally,1287,4,4,7,73.28
+LB Nagar,3428,3,2,6,138.79
+Kukatpally,3232,5,5,23,170.31
+Nizampet,3236,1,2,11,156.26
+Pocharam,3830,5,4,18,163.19
+Begumpet,1088,2,3,6,77.88
+Gachibowli,3618,4,5,9,261.64
+LB Nagar,1947,4,4,28,79.13
+Kondapur,3773,2,1,24,236.41
+Bachupally,1093,3,4,15,54.81
+Nagole,2267,3,3,2,96.85
+Nallagandla,2237,4,3,29,107.41
+Bowenpally,618,4,3,9,38.75
+Nizampet,3044,1,2,5,151.65
+Kukatpally,1600,3,2,17,88.12
+Madhapur,3950,2,3,17,295.23
+Bachupally,1450,3,2,4,77.77
+Gachibowli,1988,1,1,20,133.71
+Gachibowli,1954,4,5,28,133.96
+Jubilee Hills,1967,4,5,6,192.24
+Manikonda,1421,1,1,27,76.66
+Patancheru,1054,2,1,1,39.62
+Manikonda,2224,4,5,10,133.84
+Nizampet,3372,5,4,29,161.29
+Kukatpally,3736,4,4,12,208.91
+Kondapur,3747,5,4,22,247.44
+Nallagandla,1310,1,1,4,68.82
+Gachibowli,2790,1,1,29,176.08
+Bowenpally,1516,4,4,5,67.99
+Kondapur,3475,3,3,23,225.59
+Kondapur,3252,5,5,25,213.21
+Attapur,2096,2,1,28,78.82
+Nallagandla,2040,4,4,13,108.44
+Hitech City,904,2,1,11,67.6
+Tellapur,1335,4,4,3,74.01
+Miyapur,2938,3,4,28,143.58
+Nagole,2563,3,3,22,93.86
+Manikonda,2749,3,4,5,166.43
+Manikonda,2609,3,3,9,152.23
+Ameerpet,3938,1,1,17,223.83
+Manikonda,3514,1,1,14,193.51
+Nallagandla,3615,5,6,7,189.88
+Attapur,3621,2,3,25,139.23
+Begumpet,3489,4,4,8,232.14
+Jubilee Hills,1561,4,3,4,155.52
+Pocharam,3589,1,1,9,150.4
+Jubilee Hills,1626,4,5,19,148.14
+LB Nagar,2732,1,1,5,108.31
+Jubilee Hills,2975,5,6,15,279.95
+Pocharam,3463,2,3,23,139.87
+Madhapur,2073,5,6,26,156.56
+Nallagandla,3101,3,3,2,166.25
+Bowenpally,2547,3,4,9,113.95
+Manikonda,3276,3,4,10,186.25
+Manikonda,3892,5,5,10,227.8
+Attapur,1777,4,5,16,76.98
+Ameerpet,1264,2,2,3,77.11
+Attapur,611,3,4,3,32.01
+Begumpet,1756,3,2,16,115.81
+Begumpet,903,3,2,8,63.77
+Gachibowli,3964,2,3,18,271.03
+Ameerpet,3622,3,2,4,224.48
+Attapur,3971,2,2,21,152.88
+Manikonda,2363,3,2,23,131.24
+Miyapur,3430,5,6,5,185.82
+Shamshabad,642,5,6,2,32.47
+Pocharam,1543,2,2,21,63.91
+Pocharam,2990,5,6,0,139.67
+Jubilee Hills,1949,2,2,19,176.58
+Shamshabad,3145,5,4,21,117.4
+Ameerpet,3011,5,4,15,178.73
+Hitech City,1490,2,2,22,104.12
+Begumpet,3074,4,4,10,203.81
+Jubilee Hills,1604,5,6,12,158.36
+Kondapur,620,3,2,26,45.09
+Jubilee Hills,1006,4,4,9,104.54
+Hitech City,3266,2,1,2,237.48
+Patancheru,1614,4,4,8,53.23
+Madhapur,935,1,1,27,66.11
+Miyapur,2438,1,2,11,127.04
+Kondapur,3788,5,4,22,245.16
+Miyapur,1747,5,4,13,89.3
+Jubilee Hills,3046,3,2,0,296.9
+Patancheru,3440,4,3,17,111.6
+Begumpet,2427,1,1,16,149.5
+Tellapur,1314,5,6,26,65.17
+Pocharam,650,4,4,8,33.83
+Hitech City,923,5,4,8,77.09
+Tellapur,1388,5,6,22,70.23
+Shamshabad,740,1,1,9,28.5
+Pocharam,1069,1,1,18,37.82
+Manikonda,1386,5,5,28,80.74
+Kondapur,2425,2,1,14,158.94
+Pocharam,1957,5,6,4,94.46
+Hitech City,2516,5,6,14,186.71
+Bachupally,1563,3,3,19,78.22
+Tellapur,3655,3,2,22,158.12
+Madhapur,972,3,4,29,74.84
+Attapur,3141,2,1,24,121.61
+Attapur,2292,2,1,27,92.26
+Hitech City,3398,5,4,1,259.94
+Hitech City,1779,3,3,12,133.04
+Nizampet,2938,2,1,23,132.68
+Kondapur,2271,1,2,15,144.42
+Shamshabad,3815,5,4,14,138.86
+Nizampet,705,4,5,24,41.85
+Miyapur,2043,5,4,9,116.06
+Manikonda,3317,4,5,13,188.95
+Begumpet,2281,3,4,9,154.13
+Begumpet,601,4,3,24,48.93
+Manikonda,3236,3,2,13,185.08
+Pocharam,3291,1,2,25,131.15
+Nallagandla,2737,4,4,29,132.62
+Nizampet,949,5,4,22,50.05
+Bachupally,1886,3,3,8,97.92
+Tellapur,3779,5,4,24,169.74
+Manikonda,1662,2,1,13,96.44
+Nagole,3556,3,2,2,136.24
+Jubilee Hills,2806,4,3,19,251.76
+Pocharam,3606,3,3,15,156.24
+Manikonda,2959,5,4,1,180.77
+Nizampet,3912,1,2,9,195.29
+Bachupally,1044,3,4,2,57.22
+Bachupally,2945,4,4,10,140.3
+Hitech City,1551,2,1,10,116.21
+Kompally,635,1,2,20,26.16
+Hitech City,1707,2,2,20,122.56
+Kondapur,2075,3,2,21,137.31
+Kondapur,2398,5,6,12,165.96
+Manikonda,2445,5,6,6,151.12
+Miyapur,2008,4,4,22,109.92
+LB Nagar,1795,5,4,16,79.14
+Kukatpally,1999,1,1,29,99.35
+Patancheru,2308,5,6,1,88.55
+Attapur,1985,4,5,11,88.33
+Nallagandla,3206,3,4,24,156.03
+Manikonda,3538,3,2,9,201.19
+Kukatpally,2788,5,5,17,155.0
+Patancheru,3534,2,2,21,110.78
+Nizampet,3789,3,2,26,173.76
+Jubilee Hills,1900,5,5,10,188.34
+Nallagandla,3373,4,5,15,171.47
+Kondapur,1843,5,5,16,128.31
+Bowenpally,3697,3,3,18,160.35
+Nallagandla,1120,4,4,17,61.72
+Hitech City,2406,5,6,2,190.82
+Patancheru,609,1,1,20,19.5
+Jubilee Hills,1583,4,5,26,144.6
+Patancheru,3025,1,1,25,90.65
+Attapur,2256,2,1,15,91.47
+Manikonda,2260,4,3,5,131.87
+Pocharam,3329,1,1,24,128.9
+Bowenpally,3231,3,3,11,145.13
+Pocharam,2799,3,2,10,121.31
+Kukatpally,1319,2,1,14,70.97
+Bowenpally,1672,4,4,14,75.25
+Kukatpally,3825,4,5,15,205.05
+Miyapur,1458,4,3,9,76.43
+Shamshabad,1916,2,3,11,69.26
+Bowenpally,2203,4,4,27,94.17
+Kukatpally,649,3,2,12,37.67
+Gachibowli,3311,1,2,3,238.46
+Shamshabad,3178,3,4,6,117.17
+Nizampet,3731,3,4,21,183.81
+Begumpet,3838,1,1,1,250.82
+Madhapur,3873,3,3,25,281.68
+Ameerpet,3504,2,3,26,196.21
+Nagole,745,1,2,26,26.52
+Madhapur,1514,3,3,26,113.22
+LB Nagar,3640,5,6,14,148.6
+Nizampet,2062,3,4,7,108.38
+Bachupally,2889,2,2,6,143.72
+Attapur,1180,4,5,14,57.18
+Patancheru,3334,3,4,22,106.27
+Ameerpet,2184,4,5,13,133.15
+Shamshabad,1082,5,5,7,44.6
+Begumpet,3779,3,4,27,229.66
+Bowenpally,1849,1,1,11,83.09
+Jubilee Hills,1272,4,4,12,120.42
+LB Nagar,1230,5,4,29,51.56
+Nizampet,3308,1,1,10,161.4
+Patancheru,1261,1,2,16,38.41
+Nagole,3452,1,1,28,116.8
+Bowenpally,3066,1,1,16,127.51
+LB Nagar,1587,3,4,23,61.93
+Ameerpet,3831,3,2,3,230.77
+LB Nagar,2146,3,2,20,86.83
+Shamshabad,1249,5,5,7,50.72
+Kukatpally,1568,5,5,4,92.37
+LB Nagar,3237,5,4,25,125.66
+Shamshabad,1700,2,1,15,61.56
+Patancheru,3156,5,5,3,110.79
+Patancheru,1040,3,4,27,36.22
+Manikonda,3925,3,3,21,215.54
+LB Nagar,1520,2,1,28,53.43
+Ameerpet,1369,2,3,14,84.18
+Jubilee Hills,1943,5,4,11,188.12
+Tellapur,2426,4,5,4,121.17
+Attapur,862,2,1,29,37.56
+Attapur,2177,1,2,22,81.68
+LB Nagar,3284,3,4,15,134.0
+Tellapur,3838,1,1,13,173.69
+Kompally,3106,3,4,9,132.61
+Manikonda,1598,3,3,6,97.31
+Attapur,3951,2,1,12,157.75
+Nagole,1299,2,2,19,53.26
+Jubilee Hills,2949,1,1,27,249.51
+Nallagandla,2203,3,4,28,105.56
+Attapur,1841,1,2,4,79.96
+Pocharam,1725,4,5,28,74.38
+Nagole,3201,1,1,2,125.22
+Madhapur,2935,5,5,14,231.86
+Patancheru,1790,1,1,3,57.89
+LB Nagar,3268,5,4,14,135.8
+Nagole,1605,5,4,13,65.63
+Begumpet,635,5,5,19,52.11
+Attapur,1343,4,4,18,60.8
+Hitech City,2364,1,1,12,170.02
+Jubilee Hills,952,1,1,9,87.87
+Manikonda,2522,4,3,20,138.82
+Ameerpet,672,3,2,4,47.03
+Gachibowli,3295,2,3,26,212.81
+Miyapur,1976,1,1,22,95.22
+Miyapur,2514,2,3,19,128.55
+Attapur,1693,4,3,28,70.52
+Nallagandla,3072,3,2,19,155.74
+Madhapur,3646,3,4,24,267.35
+Jubilee Hills,1307,3,3,5,126.95
+Nagole,2404,4,4,3,99.52
+Ameerpet,3208,5,5,1,203.09
+Manikonda,3475,5,5,21,192.16
+Jubilee Hills,1555,2,3,15,141.91
+Gachibowli,3164,5,6,17,223.22
+Manikonda,3075,5,4,4,181.11
+Patancheru,759,3,3,21,29.27
+Pocharam,2796,3,3,3,125.06
+Kondapur,3423,2,2,29,209.21
+Gachibowli,3901,1,2,12,271.5
+Attapur,2335,2,2,18,95.23
+Jubilee Hills,2185,2,3,22,195.28
+Pocharam,666,4,4,1,36.91
+Manikonda,3661,4,4,12,212.82
+Madhapur,3028,2,1,10,232.24
+Gachibowli,657,2,2,29,47.19
+Nallagandla,3930,2,2,21,186.13
+Nallagandla,941,5,4,28,54.01
+Nizampet,1753,4,5,3,99.59
+Kompally,3374,2,3,21,133.71
+Hitech City,1795,3,3,19,134.88
+Shamshabad,3417,3,4,19,116.89
+Kondapur,3261,5,5,14,223.99
+Patancheru,1832,5,4,3,66.94
+Bowenpally,3001,1,1,8,130.68
+Nallagandla,2094,1,1,6,102.18
+Kompally,2421,1,1,18,95.3
+Nagole,715,5,4,18,33.18
+Ameerpet,3935,5,5,5,243.22
+Miyapur,1261,5,5,5,78.25
+Ameerpet,2065,3,2,19,122.2
+Jubilee Hills,3100,5,6,14,284.38
+Bowenpally,2468,3,4,14,115.32
+Attapur,2934,1,1,24,111.78
+Kompally,3974,1,1,19,154.58
