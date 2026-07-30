@@ -1,58 +1,125 @@
-# Hyderabad House Price Prediction (Linear Regression + Streamlit)
+# 🏠 Hyderabad House Price Prediction using Machine Learning
 
-Predicts house prices across Hyderabad localities using a Linear Regression
-model trained on a synthetic dataset (no real dataset was provided, so
-realistic sample data was generated for the areas you listed).
+## 📌 Project Overview
 
-## Files
+A Machine Learning web application that predicts house prices across different Hyderabad localities using **Linear Regression**. The project includes data generation, model training, and a user-friendly **Streamlit** web interface for real-time predictions.
 
-| File | Purpose |
-|---|---|
-| `generate_data.py` | Creates the synthetic dataset (`data/house_prices.csv`) |
-| `train_model.py` | Trains the Linear Regression pipeline, prints metrics, saves the model |
-| `app.py` | Streamlit app for interactive predictions |
-| `data/house_prices.csv` | Generated dataset |
-| `model/house_price_model.joblib` | Trained model pipeline |
-| `requirements.txt` | Python dependencies |
+---
 
-## Dataset Columns
+## 🚀 Live Demo
 
-- `area` — locality (Gachibowli, Madhapur, Kondapur, etc.)
-- `sqft` — built-up area in square feet
-- `bhk` — number of bedrooms
-- `bathrooms` — number of bathrooms
-- `age_years` — property age in years
-- `price_lakhs` — price in INR Lakhs (target)
+**Streamlit App:**
+https://house-price-prediction-b8wqxcivwdy32x6uundvey.streamlit.app/
 
-## Setup
+---
+
+## ✨ Features
+
+* Predict house prices instantly
+* Select Hyderabad locality
+* Input area (sq ft), BHK, bathrooms, and property age
+* Interactive Streamlit interface
+* Machine Learning prediction using Scikit-learn Pipeline
+* Responsive and easy-to-use UI
+
+---
+
+## 🛠️ Tech Stack
+
+* Python
+* Scikit-learn
+* Pandas
+* NumPy
+* Streamlit
+* Joblib
+
+---
+
+## 📂 Project Structure
+
+```text
+house-price-prediction/
+│── app.py
+│── train_model.py
+│── generate_data.py
+│── requirements.txt
+│── README.md
+│── data/
+│   └── house_prices.csv
+│── model/
+│   └── house_price_model.joblib
+```
+
+---
+
+## 📊 Dataset Features
+
+* **Area** – Hyderabad locality
+* **Sqft** – Built-up area
+* **BHK** – Number of bedrooms
+* **Bathrooms** – Number of bathrooms
+* **Age (Years)** – Property age
+* **Target** – House Price (Lakhs)
+
+---
+
+## 🤖 Machine Learning Workflow
+
+1. Generate synthetic housing dataset
+2. Data preprocessing
+3. One-Hot Encoding for categorical features
+4. Standard Scaling for numerical features
+5. Train Linear Regression model
+6. Save trained model using Joblib
+7. Deploy prediction app with Streamlit
+
+---
+
+## 📈 Model Performance
+
+| Metric    | Value             |
+| --------- | ----------------- |
+| Algorithm | Linear Regression |
+| R² Score  | ~0.95             |
+| MAE       | ~10.8 Lakhs       |
+
+---
+
+## ⚙️ Installation
 
 ```bash
+git clone https://github.com/SaiPraneethGadala/house-price-prediction.git
+cd house-price-prediction
+
+python -m venv venv
+
+# Windows
+venv\Scripts\activate
+
 pip install -r requirements.txt
 
-# (Optional) regenerate the dataset
-python generate_data.py
-
-# Train the model
-python train_model.py
-
-# Launch the app
 streamlit run app.py
 ```
 
-## Model
+---
 
-- **Algorithm**: Linear Regression (Scikit-learn)
-- **Preprocessing**: `StandardScaler` for numeric features, `OneHotEncoder` for `area`, combined via `ColumnTransformer` inside a single `Pipeline`
-- **Test performance** (on this synthetic data): R² ≈ 0.95, MAE ≈ 10.8 Lakhs
+## 💡 Future Improvements
 
-## Using Your Real Dataset
+* Train using real Hyderabad housing data
+* Add advanced ML models (Random Forest, XGBoost)
+* Integrate interactive maps
+* Improve prediction accuracy
+* Deploy with Docker and CI/CD
 
-To swap in real data, replace `data/house_prices.csv` with your own CSV using
-the same column names (or edit `NUMERIC_FEATURES` / `CATEGORICAL_FEATURES` in
-`train_model.py` and `app.py` to match your actual columns), then re-run
-`train_model.py`.
+---
 
-## Notes
+## 👨‍💻 Developed By
 
-This is a portfolio/demo project. The dataset is synthetic and price
-relationships are illustrative, not based on real Hyderabad market data.
+**Sai Praneeth Gadala**
+
+* GitHub: https://github.com/SaiPraneethGadala
+* LinkedIn: https://linkedin.com/in/saipraneethgadala
+
+---
+
+**Note:** This project is built for educational and portfolio purposes. The current dataset is synthetic and intended to demonstrate the end-to-end Machine Learning workflow.
